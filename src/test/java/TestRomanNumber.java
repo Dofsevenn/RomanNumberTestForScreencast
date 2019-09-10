@@ -11,7 +11,7 @@ public class TestRomanNumber {
     }
 
     private String toRoman(int numberInput) {
-        return null;
+        return "I";
     }
 
 
