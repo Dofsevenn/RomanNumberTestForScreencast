@@ -4,12 +4,13 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class TestRomanNumber {
 
-    @Test
+   @Test
     void shouldConvert1ToI() {
-        assertEquals("I", toRoman(1));
-    }
+       assertEquals("I", toRoman(1));
+   }
 
     private String toRoman(int numberInput) {
         return null;
     }
+
 }
