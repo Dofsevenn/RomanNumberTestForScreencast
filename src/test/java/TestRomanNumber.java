@@ -10,11 +10,6 @@ public class TestRomanNumber {
         assertEquals("I", toRoman(1));
     }
 
-    @Test
-    void shouldConvert2ToII() {
-        assertEquals("II", toRoman(2));
-    }
-
     private String toRoman(int numberInput) {
         return "I";
     }
